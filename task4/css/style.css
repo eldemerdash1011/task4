@@ -1,0 +1,59 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: "Sevillana"
+}
+header{
+    background-color:rgb(128, 128,128);
+    height:80px;
+    padding: 10px;
+    position: relative;
+}
+nav{
+    position: absolute;
+    right: 20px;
+   font-size: 25px;
+   top: 20px;
+   bottom: 30px;
+}
+h2{
+    background-color:#8732a8;
+    display:inline-block;
+    font-size: 35px;
+    padding-right: 20px;
+    padding-left :  20px;
+}
+span{
+    margin-right: 15px;
+}
+.z1{
+    background-color: blueviolet;
+    text-align: center;
+  height: 400px;
+ padding: 150px;
+ font-size: 30px;
+ position: sticky;
+}
+
+.z2{
+    background-image: url(../../../Downloads/تنزيل.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 90px;
+}
+div{
+    text-align: center;
+    padding-top: 40px;
+}
+.z3{
+    width: 150px;
+    height: 200px;
+    border-top:5px solid #b53358 ;
+    border-right: 5px solid brown;
+    border-bottom: 5px solid #66048a;
+    border-left: 5px solid rgb(215,7, 247);
+}
+
+
